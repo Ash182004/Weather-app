@@ -1,0 +1,25 @@
+<th style="width: 22%;">Feels_like</th>
+<th style="width: 22%;">Feels_like</th>
+<th style="width: 22%;">Grnd_level</th>
+<th style="width: 22%;">Humidity</th>
+<th style="width: 22%;">Pressure</th>
+<th style="width: 22%;">Sea_level</th>
+<th style="width: 22%;">Temp</th>
+<th style="width: 22%;">Temp_max</th>
+<th style="width: 22%;">Temp_min</th>
+<th style="width: 22%;">Sunrise</th>
+<th style="width: 22%;">Sunset</th>
+<th style="width: 22%;">Wind_deg</th>
+<th style="width: 22%;">Wind_speed</th>
+
+temp=response.temp
+feels_like=response.feels_like
+temp_min=response.temp_min
+temp_max=response.temp_max
+pressure=response.pressure
+humidity=response.humidity
+sea_level=response.sealevel
+grnd_level=response.grnd_level
+ 
+
+
